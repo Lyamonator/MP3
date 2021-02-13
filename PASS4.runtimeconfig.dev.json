@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lyamo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lyamo\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+John Doe,330265
+Jane Doe,563133
+James Smith,372615
+Best,1
+James Johnson,500000
+George Clark,498765
+Mary Miller,399999
+Henry Brown,511110
+Ann Wilson,309998
+Thomas Davis,609387
+Lyam Katz,383948
